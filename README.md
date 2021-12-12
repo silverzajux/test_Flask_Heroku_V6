@@ -1,4 +1,0 @@
-# test_Flask_Heroku_V6
-For trying Heroku installation
-
-bla bla bla
